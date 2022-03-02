@@ -1,6 +1,6 @@
 Generic info about the webcomponent package.
 
-## How to use
+## How to use it
 
 1. install
 
